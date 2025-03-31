@@ -3,7 +3,7 @@
 这是一个用于 Unreal Engine 的自动 LOD（Level of Detail）生成工具插件。支持外部fbx文件直接启动ue无头模式生成lod。
 This is an automatic LOD (Level of Detail) generation tool plugin for Unreal Engine. Supports external fbx files to directly start ue headless mode to generate LODs
 
-直接将文件夹复制到ue过程plugins目录下
+直接将文件夹复制到ue工程plugins目录下
 Simply copy the folder to the UE project's plugins directory.
 
 ## 功能特点 | Features

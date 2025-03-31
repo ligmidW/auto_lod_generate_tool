@@ -1,0 +1,12 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.auto_lod_generate_tool.cpp.obj": [
+			"auto_lod_generate_tool.gen.cpp.obj",
+			"auto_lod_generate_tool.init.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"auto_lod.cpp.obj",
+			"auto_lod_generate_tool.cpp.obj"
+		]
+	}
+}

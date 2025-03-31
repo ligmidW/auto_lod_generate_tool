@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "auto_lod_generate_tool",
+	"Description": "Auto LOD Generation Tool",
+	"Category": "Editor",
+	"CreatedBy": "bboy",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "auto_lod_generate_tool",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}

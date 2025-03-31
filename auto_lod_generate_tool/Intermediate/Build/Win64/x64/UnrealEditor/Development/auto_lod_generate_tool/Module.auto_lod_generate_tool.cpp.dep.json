@@ -1,0 +1,19 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\working_path\\2024\\unreal_engine\\auto_lod_generate\\plugins\\auto_lod_generate_tool\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\auto_lod_generate_tool\\module.auto_lod_generate_tool.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\working_path\\2024\\unreal_engine\\auto_lod_generate\\intermediate\\build\\win64\\x64\\auto_lod_generateeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\working_path\\2024\\unreal_engine\\auto_lod_generate\\plugins\\auto_lod_generate_tool\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\auto_lod_generate_tool\\definitions.auto_lod_generate_tool.h",
+            "d:\\working_path\\2024\\unreal_engine\\auto_lod_generate\\plugins\\auto_lod_generate_tool\\intermediate\\build\\win64\\unrealeditor\\inc\\auto_lod_generate_tool\\uht\\auto_lod_generate_tool.gen.cpp",
+            "d:\\working_path\\2024\\unreal_engine\\auto_lod_generate\\plugins\\auto_lod_generate_tool\\source\\auto_lod_generate_tool\\public\\auto_lod_generate_tool.h",
+            "d:\\working_path\\2024\\unreal_engine\\auto_lod_generate\\plugins\\auto_lod_generate_tool\\intermediate\\build\\win64\\unrealeditor\\inc\\auto_lod_generate_tool\\uht\\auto_lod_generate_tool.generated.h",
+            "d:\\working_path\\2024\\unreal_engine\\auto_lod_generate\\plugins\\auto_lod_generate_tool\\intermediate\\build\\win64\\unrealeditor\\inc\\auto_lod_generate_tool\\uht\\auto_lod_generate_tool.init.gen.cpp",
+            "d:\\working_path\\2024\\unreal_engine\\auto_lod_generate\\plugins\\auto_lod_generate_tool\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\auto_lod_generate_tool\\permoduleinline.gen.cpp",
+            "c:\\program files\\epic games\\ue_5.5\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

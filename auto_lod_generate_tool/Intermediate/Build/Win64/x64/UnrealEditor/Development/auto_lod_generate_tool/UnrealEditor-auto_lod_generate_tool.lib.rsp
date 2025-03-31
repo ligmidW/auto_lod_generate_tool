@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-auto_lod_generate_tool.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\working_path\2024\Unreal_Engine\auto_lod_generate\Intermediate\Build\Win64\x64\auto_lod_generateEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"D:\working_path\2024\Unreal_Engine\auto_lod_generate\Plugins\auto_lod_generate_tool\Intermediate\Build\Win64\x64\UnrealEditor\Development\auto_lod_generate_tool\Module.auto_lod_generate_tool.cpp.obj"
+"D:\working_path\2024\Unreal_Engine\auto_lod_generate\Plugins\auto_lod_generate_tool\Intermediate\Build\Win64\x64\UnrealEditor\Development\auto_lod_generate_tool\auto_lod.cpp.obj"
+"D:\working_path\2024\Unreal_Engine\auto_lod_generate\Plugins\auto_lod_generate_tool\Intermediate\Build\Win64\x64\UnrealEditor\Development\auto_lod_generate_tool\auto_lod_generate_tool.cpp.obj"
+"D:\working_path\2024\Unreal_Engine\auto_lod_generate\Plugins\auto_lod_generate_tool\Intermediate\Build\Win64\x64\UnrealEditor\Development\auto_lod_generate_tool\Default.rc2.res"
+/OUT:"D:\working_path\2024\Unreal_Engine\auto_lod_generate\Plugins\auto_lod_generate_tool\Intermediate\Build\Win64\x64\UnrealEditor\Development\auto_lod_generate_tool\UnrealEditor-auto_lod_generate_tool.lib"

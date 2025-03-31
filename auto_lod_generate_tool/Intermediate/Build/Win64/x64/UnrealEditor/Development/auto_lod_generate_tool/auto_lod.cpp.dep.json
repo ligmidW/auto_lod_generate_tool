@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\working_path\\2024\\unreal_engine\\auto_lod_generate\\plugins\\auto_lod_generate_tool\\source\\auto_lod_generate_tool\\private\\auto_lod.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\working_path\\2024\\unreal_engine\\auto_lod_generate\\intermediate\\build\\win64\\x64\\auto_lod_generateeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "d:\\working_path\\2024\\unreal_engine\\auto_lod_generate\\plugins\\auto_lod_generate_tool\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\auto_lod_generate_tool\\definitions.auto_lod_generate_tool.h",
+            "d:\\working_path\\2024\\unreal_engine\\auto_lod_generate\\plugins\\auto_lod_generate_tool\\source\\auto_lod_generate_tool\\public\\auto_lod.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
